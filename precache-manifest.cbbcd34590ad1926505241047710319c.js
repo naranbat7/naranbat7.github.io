@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7ed34d444a8c89834ed49e425947797",
+    "revision": "d790abc57edd5f9b0b0dfb6ead630579",
     "url": "/index.html"
   },
   {
-    "revision": "39434419c7038efd440f",
+    "revision": "504c83a0d408e56be2c2",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "b4d9d7a2138295ebaca8",
-    "url": "/static/css/main.8379d309.chunk.css"
+    "revision": "496e5275dec8d6bb63ed",
+    "url": "/static/css/main.1ecb361f.chunk.css"
   },
   {
-    "revision": "39434419c7038efd440f",
-    "url": "/static/js/2.e7b2abfa.chunk.js"
+    "revision": "504c83a0d408e56be2c2",
+    "url": "/static/js/2.d7415c72.chunk.js"
   },
   {
     "revision": "b0adff54d3835f1fa9008e2dcd8b3bfb",
-    "url": "/static/js/2.e7b2abfa.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d7415c72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4d9d7a2138295ebaca8",
-    "url": "/static/js/main.cd54282b.chunk.js"
+    "revision": "496e5275dec8d6bb63ed",
+    "url": "/static/js/main.a7555803.chunk.js"
   },
   {
     "revision": "e85f6f816ba689126591",
@@ -366,6 +366,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d0b9f1c883a122f10297c79de1491db",
     "url": "/static/media/GEEKS OzHandicraft Win95BT (Roman).4d0b9f1c.ttf"
+  },
+  {
+    "revision": "461a4168ad0e1a9612ce2dc18788ba30",
+    "url": "/static/media/Mogul Futuris Bold Italic.461a4168.ttf"
+  },
+  {
+    "revision": "fe7d2c0a6fb3cc37d8cec277b802271b",
+    "url": "/static/media/Mogul Futuris Bold.fe7d2c0a.ttf"
+  },
+  {
+    "revision": "024a63b73ec771f429ce376cfbc54e2e",
+    "url": "/static/media/Mogul Futuris Italic.024a63b7.ttf"
+  },
+  {
+    "revision": "b296de53ea7692f0a9ea26598362c85f",
+    "url": "/static/media/Mogul Futuris.b296de53.ttf"
+  },
+  {
+    "revision": "3db0165a4769619073f602bb1063144f",
+    "url": "/static/media/Mogul FuturisShadow.3db0165a.ttf"
   },
   {
     "revision": "7548642f415a3a715dd663c82d07a885",

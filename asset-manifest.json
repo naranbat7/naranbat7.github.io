@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8379d309.chunk.css",
-    "main.js": "/static/js/main.cd54282b.chunk.js",
-    "main.js.map": "/static/js/main.cd54282b.chunk.js.map",
+    "main.css": "/static/css/main.1ecb361f.chunk.css",
+    "main.js": "/static/js/main.a7555803.chunk.js",
+    "main.js.map": "/static/js/main.a7555803.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2440d445.js",
     "runtime-main.js.map": "/static/js/runtime-main.2440d445.js.map",
     "static/css/2.8f118048.chunk.css": "/static/css/2.8f118048.chunk.css",
-    "static/js/2.e7b2abfa.chunk.js": "/static/js/2.e7b2abfa.chunk.js",
-    "static/js/2.e7b2abfa.chunk.js.map": "/static/js/2.e7b2abfa.chunk.js.map",
+    "static/js/2.d7415c72.chunk.js": "/static/js/2.d7415c72.chunk.js",
+    "static/js/2.d7415c72.chunk.js.map": "/static/js/2.d7415c72.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.edf379dcb8858cd3d90477a0504e276b.js": "/precache-manifest.edf379dcb8858cd3d90477a0504e276b.js",
+    "precache-manifest.cbbcd34590ad1926505241047710319c.js": "/precache-manifest.cbbcd34590ad1926505241047710319c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8f118048.chunk.css.map": "/static/css/2.8f118048.chunk.css.map",
-    "static/css/main.8379d309.chunk.css.map": "/static/css/main.8379d309.chunk.css.map",
-    "static/js/2.e7b2abfa.chunk.js.LICENSE.txt": "/static/js/2.e7b2abfa.chunk.js.LICENSE.txt",
+    "static/css/main.1ecb361f.chunk.css.map": "/static/css/main.1ecb361f.chunk.css.map",
+    "static/js/2.d7415c72.chunk.js.LICENSE.txt": "/static/js/2.d7415c72.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.8a20d189.jpg",
     "static/media/10.jpg": "/static/media/10.615d322d.jpg",
     "static/media/11.jpg": "/static/media/11.de4fee76.jpg",
@@ -97,7 +97,7 @@
     "static/media/82.jpg": "/static/media/82.7ca43c17.jpg",
     "static/media/83.jpg": "/static/media/83.acc65955.jpg",
     "static/media/9.jpg": "/static/media/9.317f20e7.jpg",
-    "static/media/Flower.css": "/static/media/GEEKS OzHandicraft Win95BT (Roman).4d0b9f1c.ttf",
+    "static/media/miniCarousel.css": "/static/media/Mogul FuturisShadow.3db0165a.ttf",
     "static/media/baglaa1.jpg": "/static/media/baglaa1.7548642f.jpg",
     "static/media/baglaa2.jpg": "/static/media/baglaa2.70c5b54b.jpg",
     "static/media/baglaa3.jpg": "/static/media/baglaa3.8ba17ae2.jpg",
@@ -127,8 +127,8 @@
   "entrypoints": [
     "static/js/runtime-main.2440d445.js",
     "static/css/2.8f118048.chunk.css",
-    "static/js/2.e7b2abfa.chunk.js",
-    "static/css/main.8379d309.chunk.css",
-    "static/js/main.cd54282b.chunk.js"
+    "static/js/2.d7415c72.chunk.js",
+    "static/css/main.1ecb361f.chunk.css",
+    "static/js/main.a7555803.chunk.js"
   ]
 }
