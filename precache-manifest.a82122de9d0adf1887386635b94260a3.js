@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d790abc57edd5f9b0b0dfb6ead630579",
+    "revision": "0add8148f666ead16ebaa21b847af278",
     "url": "/index.html"
   },
   {
-    "revision": "504c83a0d408e56be2c2",
+    "revision": "dff976455881daa471c3",
     "url": "/static/css/2.8f118048.chunk.css"
   },
   {
-    "revision": "496e5275dec8d6bb63ed",
-    "url": "/static/css/main.1ecb361f.chunk.css"
+    "revision": "fdf0041d1342a51cf9e1",
+    "url": "/static/css/main.264df806.chunk.css"
   },
   {
-    "revision": "504c83a0d408e56be2c2",
-    "url": "/static/js/2.d7415c72.chunk.js"
+    "revision": "dff976455881daa471c3",
+    "url": "/static/js/2.3b0161a6.chunk.js"
   },
   {
     "revision": "b0adff54d3835f1fa9008e2dcd8b3bfb",
-    "url": "/static/js/2.d7415c72.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3b0161a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "496e5275dec8d6bb63ed",
-    "url": "/static/js/main.a7555803.chunk.js"
+    "revision": "fdf0041d1342a51cf9e1",
+    "url": "/static/js/main.d8e65ecd.chunk.js"
   },
   {
     "revision": "e85f6f816ba689126591",
@@ -416,20 +416,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gadna.e21559cb.png"
   },
   {
-    "revision": "dd6312127e15195db35176a75c3730ee",
-    "url": "/static/media/goodali.dd631212.jpg"
-  },
-  {
     "revision": "603ef4c39d5be0f827b96a289f4f8e1f",
     "url": "/static/media/img.603ef4c3.png"
-  },
-  {
-    "revision": "d2b56efe9abc25c6a424be35300c9543",
-    "url": "/static/media/neon_oroong.d2b56efe.jpg"
-  },
-  {
-    "revision": "16de6c9487c77eb61ef25d5f09c86eab",
-    "url": "/static/media/oim_a.16de6c94.jpg"
   },
   {
     "revision": "9f26754f2fda7cf01ddbdfacf550e9af",
@@ -464,10 +452,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/top-bar-3.73968182.png"
   },
   {
-    "revision": "7ecfb470c7510dfb862bea4bb8e4adb9",
-    "url": "/static/media/tsetsgeldeg_mungunii_mod.7ecfb470.jpg"
-  },
-  {
     "revision": "7947dd1277691234574fe6483909a733",
     "url": "/static/media/web.7947dd12.png"
   },
@@ -482,9 +466,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8f621550b92c2437ff3fa000b727cb41",
     "url": "/static/media/wow2.8f621550.jpg"
-  },
-  {
-    "revision": "44e04c5e7581bf9a4a407e157bbc6456",
-    "url": "/static/media/zuzaah.44e04c5e.jpg"
   }
 ]);
