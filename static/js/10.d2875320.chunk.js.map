@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/lizing/Lizing.js"],"names":["Webguide"],"mappings":"qMAUeA,UARE,WACf,OACE,mCACE","file":"static/js/10.d2875320.chunk.js","sourcesContent":["import React, { useState } from \"react\";\r\n\r\nconst Webguide = () => {\r\n  return (\r\n    <>\r\n      <p>Лизинг</p>\r\n    </>\r\n  );\r\n};\r\n\r\nexport default Webguide;\r\n"],"sourceRoot":""}
