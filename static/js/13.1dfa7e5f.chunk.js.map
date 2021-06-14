@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/product/Product.js"],"names":["Webguide"],"mappings":"qMAUeA,UARE,WACf,OACE,mCACE","file":"static/js/13.1dfa7e5f.chunk.js","sourcesContent":["import React, { useState } from \"react\";\r\n\r\nconst Webguide = () => {\r\n  return (\r\n    <>\r\n      <p>Бараа</p>\r\n    </>\r\n  );\r\n};\r\n\r\nexport default Webguide;\r\n"],"sourceRoot":""}
